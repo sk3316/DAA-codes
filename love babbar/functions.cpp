@@ -90,33 +90,33 @@ int main()
 
     // occurence of number in array
 
-    int arr[10],n;
-    cout<<"enter number of elements in array"<<endl;
-    cin>>n;
+    // int arr[10],n;
+    // cout<<"enter number of elements in array"<<endl;
+    // cin>>n;
 
-    for (int i = 0; i < n; i++)
-    {   
-        cout<<"enter "<<i+1<<" term"<<endl;
-        cin>>arr[i];
-    }
+    // for (int i = 0; i < n; i++)
+    // {   
+    //     cout<<"enter "<<i+1<<" term"<<endl;
+    //     cin>>arr[i];
+    // }
 
-    int key;
-    cout<<"Enter the key element to be found"<<endl;
-    cin>>key;
-    int count = 0;
-    for (int  j = 0; j < n; j++)
-    {
-        if (arr[j]==key)
-        {
-            count++;
-        }
-        else
-        {
-            continue;
-        }
+    // int key;
+    // cout<<"Enter the key element to be found"<<endl;
+    // cin>>key;
+    // int count = 0;
+    // for (int  j = 0; j < n; j++)
+    // {
+    //     if (arr[j]==key)
+    //     {
+    //         count++;
+    //     }
+    //     else
+    //     {
+    //         continue;
+    //     }
         
-    }
-    cout<<"Number of occurrences are:- "<<count<<endl;
+    // }
+    // cout<<"Number of occurrences are:- "<<count<<endl;
     
     
     
