@@ -51,6 +51,12 @@ int main()
 
     cout<<"Element at 2nd index: "<<v.at(2)<<endl;
 
+    cout<<"Element in front: "<<v.front()<<endl;
+
+    cout<<"Element in back: "<<v.back()<<endl;
+
+
+
 
 
 
