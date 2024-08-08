@@ -24,6 +24,11 @@ int main()
     arr2.push_back(5);
     arr2.push_back(1);
     
+    arr2.back();
+
+    
+
+
     int m = arr2.size();
 
     vector<int> varr;
@@ -68,8 +73,6 @@ int main()
         cout<<i<<" ";
     }
 
-    deque<int> d;
-    d.pus
     
 
     // vector<int>v;
