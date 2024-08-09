@@ -10,5 +10,6 @@ int main()
     cout<<"Length: "<<name.length()<<endl;
     reverse(name.begin(),name.end());
     cout<<"Reversed name: "<<name<<endl;
+    // name.shrink_to_fit
     return 0;
 }
