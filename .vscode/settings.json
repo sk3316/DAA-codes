@@ -3,7 +3,13 @@
     "iostream": "cpp",
     "ostream": "cpp",
     "array": "cpp",
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "bitset": "cpp",
+    "vector": "cpp",
+    "memory": "cpp",
+    "system_error": "cpp",
+    "thread": "cpp",
+    "typeindex": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
